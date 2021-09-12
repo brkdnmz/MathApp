@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b23a0b-120b-482b-99b6-b61e637763ec" name="Changes" comment="x">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="83b23a0b-120b-482b-99b6-b61e637763ec" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/MathAppApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/Content.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/ContentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/ContentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/ContentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mathapp/mathapp/MathAppApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/content/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/content/Content.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +29,7 @@
       <map>
         <entry key="JPA Inspector" value="false" />
         <entry key="JPA Palette" value="false" />
-        <entry key="JPA Structure" value="true" />
+        <entry key="JPA Structure" value="false" />
       </map>
     </option>
   </component>
@@ -89,8 +71,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631471910256</updated>
-      <workItem from="1631471913494" duration="146000" />
+      <workItem from="1631471913494" duration="584000" />
     </task>
+    <task id="LOCAL-00001" summary="x">
+      <created>1631472088241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631472088241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="x">
+      <created>1631472104149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631472104149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="x">
+      <created>1631472158463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631472158463</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1631472212414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631472212415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="x" />
-    <option name="LAST_COMMIT_MESSAGE" value="x" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
