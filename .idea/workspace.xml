@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83b23a0b-120b-482b-99b6-b61e637763ec" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/html-webpack-plugin/node_modules/loader-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/MathAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/MathAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mathapp/mathapp/MathAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mathapp/mathapp/MathAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/Content.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mathapp/mathapp/content/Content.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +59,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/gecici" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="MathAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="MathApp" />
+      <module name="ContentEditor" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mathapp.mathapp.MathAppApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,7 +88,18 @@
       <option name="presentableId" value="Default" />
       <updated>1631471910256</updated>
       <workItem from="1631471913494" duration="584000" />
-      <workItem from="1631472550254" duration="321000" />
+      <workItem from="1631472550254" duration="3751000" />
+      <workItem from="1631545790532" duration="607000" />
+      <workItem from="1632073869904" duration="1309000" />
+      <workItem from="1632084803680" duration="75000" />
+      <workItem from="1632084909333" duration="734000" />
+      <workItem from="1632152998146" duration="689000" />
+      <workItem from="1632238427353" duration="1463000" />
+      <workItem from="1632354766391" duration="44000" />
+      <workItem from="1632726540466" duration="2000" />
+      <workItem from="1632730481843" duration="10000" />
+      <workItem from="1633962637447" duration="51000" />
+      <workItem from="1634639518479" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1631472088241</created>
@@ -115,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631472804639</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1631473091716</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631473091716</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1631474950407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631474950407</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1631475345066</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631475345066</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +175,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
