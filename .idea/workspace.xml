@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b23a0b-120b-482b-99b6-b61e637763ec" name="Changes" comment="MySQL changed to Postgresql">
+    <list default="true" id="83b23a0b-120b-482b-99b6-b61e637763ec" name="Changes" comment="JDK 11 changed to 8">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/general.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/content/ContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mathapp/mathapp/content/ContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +51,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/gecici" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -91,7 +93,11 @@
       <workItem from="1632726540466" duration="2000" />
       <workItem from="1632730481843" duration="10000" />
       <workItem from="1633962637447" duration="51000" />
-      <workItem from="1634639518479" duration="1208000" />
+      <workItem from="1634639518479" duration="2874000" />
+      <workItem from="1635016952277" duration="225000" />
+      <workItem from="1635017206383" duration="4360000" />
+      <workItem from="1635425365297" duration="2210000" />
+      <workItem from="1635629883015" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <created>1631472088241</created>
@@ -163,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634663515888</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JDK 11 changed to 8">
+      <created>1634663853917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634663853917</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +211,7 @@
     <MESSAGE value="x" />
     <MESSAGE value="commit" />
     <MESSAGE value="MySQL changed to Postgresql" />
-    <option name="LAST_COMMIT_MESSAGE" value="MySQL changed to Postgresql" />
+    <MESSAGE value="JDK 11 changed to 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDK 11 changed to 8" />
   </component>
 </project>
